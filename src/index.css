@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-pixel {
+    font-family: 'Press Start 2P', monospace, system-ui;
+  }
+  .pixelated {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+  }
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  touch-action: manipulation;
+  background-color: #030712;
+}

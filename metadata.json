@@ -1,0 +1,6 @@
+{
+  "name": "Super Plumber Retro Run",
+  "description": "A classic retro side-scrolling platformer inspired by Super Mario with jumping, stomping enemies, question blocks, mushrooms, coins, pipes, and flagpole finish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
